@@ -6,3 +6,4 @@ user_dict_template = {
 
 # Инициализируем "базу данных"
 users_db = {}
+
